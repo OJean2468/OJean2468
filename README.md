@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm O'Neal Jean</h1>
 <h3 align="center">A passionate frontend developer from the Turks and Caicos Islands</h3>
 
-- 🌱 I’m currently learning **JavaScript, Java, Python, React**
+- Linkedin: [https://www.linkedin.com/in/o-neal-jean-0704bb364/](https://www.linkedin.com/in/o-neal-jean-0704bb364/)
+
+- 🌱 I’m currently learning **JavaScript, Java, Python, React, Node JS**
 
 - 📫 How to reach me **onealjean05@gmail.com**
 
